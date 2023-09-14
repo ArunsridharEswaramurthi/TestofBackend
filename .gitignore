@@ -1,0 +1,12 @@
+.idea/workspace.xml
+/target/
+/.project
+
+# Ignore Maven-specific directories
+.mvn/
+target/
+
+# Ignore Eclipse-specific directories
+.settings/
+bin/
+
